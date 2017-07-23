@@ -46,6 +46,8 @@ collections:
   furore:
   doc:
    output: true
+  platform:
+   output: true
   releases:
    output: true
 
@@ -58,3 +60,6 @@ responsive_image:
     - width: 1400
   base_path: assets
   output_path_format: assets/resized/%{width}/%{basename}
+
+mermaid:
+  src: '/js/mermaid.min.js'

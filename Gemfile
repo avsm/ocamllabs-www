@@ -23,4 +23,5 @@ group :jekyll_plugins do
   gem 'jekyll-responsive-image'
   gem "jekyll-youtube"
   gem 'jekyll-twitter-plugin'
+  gem 'jekyll-mermaid'
 end
