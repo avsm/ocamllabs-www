@@ -360,12 +360,12 @@ p.readmore {
 }
 
 .wrapper a {
-  border-bottom:1px dotted #ffc266;
+  border-bottom:2px dotted #99c266;
   text-decoration:none;
 }
 
 .article-content a {
-  border-bottom:1px dotted #ffc266;
+  border-bottom:2px dotted #99c266;
   text-decoration:none;
 }
 
@@ -523,6 +523,11 @@ body.custom-background {
 div.post_title span.date {
   font-size: 80%;
   color: $grey-color;
+}
+
+div.mermaid {
+  text-align: center;
+   margin-right: auto; margin-left: auto; 
 }
 
 /* Pagination */
